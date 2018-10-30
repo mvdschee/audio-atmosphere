@@ -1,3 +1,4 @@
+![](preview.png)
 # Atmospheric audio to add more depth to the content
 
 An one page portfolio with beautiful words and sound.
